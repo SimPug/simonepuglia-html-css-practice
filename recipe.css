@@ -1,0 +1,10 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
