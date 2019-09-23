@@ -1,0 +1,64 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+  text-align: left
+}
+p, ul, ol, dl {
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+  margin-bottom: 12px;
+}
+.newfont {
+  font-family: 'Ubuntu', sans-serif;
+}
+#byline {
+  font-family: 'Arial', sans-serif;
+  font-size: 15px;
+  text-align: left
+}
+#credit {
+  font-family: 'Arial', sans-serif;
+  font-size: 12px;
+  text-align: right;
+  margin-top: -4px;
+}
+blockquote {
+  border-left: 4px grey solid;
+  padding: 20px;
+  margin-left: 20px;
+}
+ol li {
+  list-style-position: inside;
+}
+h1, h2, h3, h4 {
+  font-family:'Ubuntu',sans-serif;
+}
+
+h1 {
+  font-size: 2.75rem;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 16px 0;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin: 14px 0 8px 0;
+}
+h4 {
+  font-size: 1.0rem;
+  margin: 14px 0 8px 0;
+}
+
+  #common-notes {
+  visibility: hidden;
+}
