@@ -1,4 +1,4 @@
-body {
+body{
   font-family: 'Times New Roman', Times, serif;
   font-size: 62.5%;
 }
@@ -59,6 +59,3 @@ h4 {
   margin: 14px 0 8px 0;
 }
 
-  #common-notes {
-  visibility: hidden;
-}
